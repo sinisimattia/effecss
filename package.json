@@ -1,0 +1,28 @@
+{
+  "name": "effecss",
+  "version": "1.0.0",
+  "description": "Cool CSS effects to give your site a special look!",
+  "main": "src/app.scss",
+  "style": "src/app.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinisimattia/effecss.git"
+  },
+  "keywords": [
+    "css",
+    "effects"
+  ],
+  "author": {
+    "name": "Mattia Sinisi",
+    "email": "mattia@snisni.it",
+    "url": "https://mattia.codes"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinisimattia/effecss/issues"
+  },
+  "homepage": "https://github.com/sinisimattia/effecss#readme"
+}
