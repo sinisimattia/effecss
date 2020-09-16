@@ -1,2 +1,2 @@
 # effecss
-Coll CSS effects to give your site a special look
+Cool CSS effects to give your site a special look
