@@ -1,0 +1,6 @@
+@mixin hover-shadow {
+    transition: box-shadow 0.3s;
+    &:hover {
+        box-shadow: 0 10px 20px transparentize($dark, $shadow-transparency);
+    }
+}
