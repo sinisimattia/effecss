@@ -19,7 +19,9 @@
     text-align: center;
     display: block;
 
+    //FIXME Loading animation working
     &.loading {
+        @include clip-text;
         animation: loading-animation 10s infinite linear alternate;
     }
 
